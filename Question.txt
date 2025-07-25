@@ -1,0 +1,4 @@
+Write a method sumDigit() that takes an integer and returns the sum of digits.
+
+Sample Number   |	Sample Output
+num = 1234	|        Sum of digits: 10
